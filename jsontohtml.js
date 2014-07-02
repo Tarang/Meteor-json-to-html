@@ -1,0 +1,1 @@
+json2html = Npm.require('node-json2html');

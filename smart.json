@@ -1,0 +1,8 @@
+{
+  "name": "jsontohtml",
+  "description": "A wrapper around the JSON to HTML module ",
+  "homepage": "https://github.com/Tarang/Meteor-json-to-html",
+  "author": "Akshat Khatri",
+  "version": "0.5.0",
+  "git": "https://github.com/Tarang/Meteor-json-to-html.git",
+}

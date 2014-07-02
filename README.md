@@ -1,0 +1,1 @@
+A wrapper around the `node-json2html` module
